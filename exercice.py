@@ -3,6 +3,8 @@
 def majuscule(mot):
     # TODO completer la fonction ici
     return mot
+    z = 8
+
 
 
 if __name__ == '__main__':
